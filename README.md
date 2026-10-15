@@ -2,9 +2,8 @@
 
 🎓 Computer Science student at Harper College<br/>
 🎨 I hand-draw artwork and turn it into assets for my projects<br/>  
-🌱 Currently learning: Design Engineering<br/>
-💬 Ask me about technology, design, and art!<br/>
-⚡ Fun fact: I made my first ever friend by drawing a cupcake!<br/>
+🌱 Currently learning: Data Analytics <br/>
+💬 Ask me about technology, data, and art!<br/>
 
 
 # 💻 Tech Stack:
