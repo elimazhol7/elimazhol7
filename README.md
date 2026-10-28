@@ -1,8 +1,9 @@
 ## Hi, I'm Elima 
 
-🎓 Computer Science student at Harper College<br/>
+🎓 Computer Science student at Harper College, incoming Computer Science & Linguistics transfer SJSU<br/>
+🌱 Currently learning: Data Analytics, Data Science <br/> 
+
 🎨 I hand-draw artwork and turn it into assets for my projects<br/>  
-🌱 Currently learning: Data Analytics <br/>
 💬 Ask me about technology, data, and art!<br/>
 
 
